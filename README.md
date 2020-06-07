@@ -2,12 +2,6 @@
 ## Recommendation engine for oppurtunity 
 
 
-## Team Details:
-  - Name : Rahul garg 
-  - Email id : rgarg8438@gmail.com
-  - Team Name : CodeBust
-  - Members: 1
-  - Github: https://github.com/rahulgarg28071998/HackinTine-Presicely
  
  ### Build a recommendation engine
 
