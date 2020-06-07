@@ -1,5 +1,3 @@
-#!/usr/bin/python
-# Author: Oscar Villagrana
 
 from bs4 import BeautifulSoup
 import re
