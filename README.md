@@ -65,5 +65,3 @@ TOP 5 RECOMMENDATIONs: AS we can see user_id 2 has been recommended with opportu
 
 
 
-Website Link:https://rahulgarg28071998.github.io/HackinTine-Presicely/
-Referance Link: https://towardsdatascience.com/introduction-to-two-approaches-of-content-based-recommendation-system-fc797460c18c
