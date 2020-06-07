@@ -5,10 +5,10 @@
  
  ### Build a recommendation engine
 
-- Given  dataset of opportunities, cluster them based on relevant semantic meanings [ 54 points ]
+- Given  dataset of opportunities, cluster them based on relevant semantic meanings
 Example: If there is an opportunity for computer science students and another opportunity related to Machine Learning, they should be clustered closer together, when compared with a Social Sciences opportunity
 
--  Given a dataset of user preferences, recommend opportunities from the opportunity dataset [ 54 points ]
+-  Given a dataset of user preferences, recommend opportunities from the opportunity dataset 
  ### Tech Stack and Requirement :
   - nltk
   - pandas
