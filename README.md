@@ -59,3 +59,8 @@ TOP 5 RECOMMENDATIONs: AS we can see user_id 2 has been recommended with opportu
 
 
 
+## Look at the Data Set : 
+Data set created using scraping of opportunities from various sites using web scraping techniques. 
+![image](https://user-images.githubusercontent.com/19529592/83974103-62c2fd80-a908-11ea-93d4-b958e3f745b1.png)
+
+
