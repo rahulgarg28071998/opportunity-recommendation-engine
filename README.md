@@ -38,7 +38,7 @@ For recommendation Engine we employed TF-IDF vectorisation based system that are
 ![](https://miro.medium.com/max/1072/0*mKm8D8f8e5KEZVBQ)
 ![](https://miro.medium.com/max/1154/0*OfOjmgkYDXYCZroo)
 
-  - Know comes a more general content based recommendation part:
+  - now comes a more general content based recommendation part:
 
 ![](https://miro.medium.com/max/768/0*4ap6ceRDbGCC-SbR)
 
