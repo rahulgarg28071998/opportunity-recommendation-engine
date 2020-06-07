@@ -21,11 +21,11 @@ Example: If there is an opportunity for computer science students and another op
 https://www.kaggle.com/watts2/glove6b50dtxt
 
 ## Clustering Part : Problem Statement 1
-  -  First Iteration: https://github.com/rahulgarg28071998/HackinTine-Presicely/blob/master/First%20iteration%20for%20feature%20enginnering.ipynb
+  -  First Iteration: 
 Tried to make Feature based Engineering part where i tried to make all features, through the features , also made sub features like splitting the labels to su labels. All the labeled features , are being transvered into learning model of KMEANS with an optimised K - means++ algo , with k=10.
 
 ![](elbow_method_label_based.png "k value vs sse")
-   - Second Model: https://github.com/rahulgarg28071998/HackinTine-Presicely/blob/master/using%20nlp.ipynb
+   - Second Model: 
 Used Transfer learning and knowledge bases for having sentiment analysis of each and every word in the dataset.
 Employed **Glove.6B.50d** text data knowledge for getting 50 dimensional vector for every word.
 We have Included **cosine similarity** system to draw similarity between words meaning and sentiment.
